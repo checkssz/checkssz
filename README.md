@@ -1,4 +1,4 @@
-### Hi, i'm Matheus Victorio. ⚡
+### Hi, i'm Matheus Victorio. 
 
 <!--
 **checkssz/checkssz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
